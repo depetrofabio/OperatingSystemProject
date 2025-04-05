@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "semaphore.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "errno.h": "c",
+        "unistd.h": "c",
+        "string.h": "c",
+        "time.h": "c",
+        "cstdlib": "c",
+        "msg.h": "c",
+        "common.h": "c",
+        "types.h": "c"
+    }
+}
